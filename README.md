@@ -117,10 +117,11 @@ int main() {
 ```
 
 ## OUTPUT
-$ ./sem.o
-<img width="807" height="441" alt="EXP 8" src="https://github.com/user-attachments/assets/5fd44ee8-ba52-42c1-94ca-4ea0182f01c8" />
+$ ./sem.o   
 
-$ ipcs
+<img width="807" height="441" alt="EXP 8" src="https://github.com/user-attachments/assets/5fd44ee8-ba52-42c1-94ca-4ea0182f01c8" />  
+
+$ ipcs  
 <img width="807" height="206" alt="EXP8" src="https://github.com/user-attachments/assets/82cc3622-c702-4cb4-a0d0-7d34828bda9e" />
 
 # RESULT:
